@@ -61,14 +61,14 @@
                     <div class="row">
                         <div class="col-xl-2 col-lg-3 col-md-4 col-sm-4 col-5">
                             <div class="logo pt-39">
-                                <a href="index.html"><img alt="" src="../../../public/img/logo/logo.png"></a>
+                                <a href="{{route('pet-shop/main')}}"><img alt="" src="../../../public/img/logo/logo.png"></a>
                             </div>
                         </div>
                         <div class="col-xl-8 col-lg-7 d-none d-lg-block">
                             <div class="main-menu text-center">
                                 <nav>
                                     <ul>
-                                        <li><a href="index.html">HOME</a>
+                                        <li><a href="{{route('pet-shop/main')}}">HOME</a>
                                             <ul class="submenu">
                                                 <li>
                                                     <a href="index.html">home version 1</a>
@@ -112,7 +112,7 @@
                                                 </li>
                                                 <li>
                                                     <ul>
-                                                        <li><a href="shop-page.html"><img alt="" src="../../../public/img/banner/menu-img-4.jpg"></a></li>
+                                                        <li><a href="shop-page.html"><img alt="" src="../../../public/img/banners/menu-img-4.jpg"></a></li>
                                                     </ul>
                                                 </li>
                                             </ul>
@@ -332,7 +332,7 @@
                 </div>
             </div>
         </header>
-        <div class="breadcrumb-area pt-95 pb-95 bg-img" style="background-image:url(../../../public/img/banner/banner-2.jpg);">
+        <div class="breadcrumb-area pt-95 pb-95 bg-img" style="background-image:url(../../../public/img/banners/banner-2.jpg);">
             <div class="container">
                 <div class="breadcrumb-content text-center">
                     <h2>Shop Page</h2>

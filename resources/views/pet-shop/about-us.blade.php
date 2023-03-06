@@ -332,7 +332,7 @@
                 </div>
             </div>
         </header>
-        <div class="breadcrumb-area pt-95 pb-95 bg-img" style="background-image:url(../../../public/img/banner/banner-2.jpg);">
+        <div class="breadcrumb-area pt-95 pb-95 bg-img" style="background-image:url(../../../public/img/banners/banner-1.jpg);">
             <div class="container">
                 <div class="breadcrumb-content text-center">
                     <h2>About Us</h2>
@@ -348,7 +348,7 @@
                 <div class="row">
                     <div class="col-lg-6 col-md-6">
                         <div class="about-us-img pr-30 wow fadeInLeft">
-                            <img alt="" src="../../../public/img/banner/banner-3.png">
+                            <img alt="" src="../../../public/img/banners/banner-3.png">
                         </div>
                     </div>
                     <div class="col-lg-6 col-md-6 d-flex align-items-center">

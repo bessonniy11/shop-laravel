@@ -19,8 +19,16 @@ Route::get('/', function () {
 });
 
 Route::get('pet-shop/food', function () {
-    return view('pet-shop/food');
+    return view('pet-shop/shop-page');
 })->name('pet-shop/food');
+
+Route::get('pet-shop/main', function () {
+    return view('pet-shop/index');
+})->name('pet-shop/main');
+
+Route::get(
+    'pet-shop/about',
+    [\App\Http\Controllers\PetController::class, 'about'])->name('pet-shop/about');
 
 Route::get('/dashboard', function () {
     return view('dashboard');

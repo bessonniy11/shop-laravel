@@ -112,7 +112,7 @@
                                                 </li>
                                                 <li>
                                                     <ul>
-                                                        <li><a href="shop-page.blade.php"><img alt="" src="../../../public/img/banner/menu-img-4.jpg"></a></li>
+                                                        <li><a href="shop-page.blade.php"><img alt="" src="../../../public/img/banners/menu-img-4.jpg"></a></li>
                                                     </ul>
                                                 </li>
                                             </ul>
@@ -164,7 +164,7 @@
                                                 </li>
                                             </ul>
                                         </li>
-                                        <li><a href="about-us.blade.php">ABOUT</a></li>
+                                        <li><a href="{{route('pet-shop/about')}}">ABOUT</a></li>
                                         <li><a href="contact.blade.php">contact us</a></li>
                                     </ul>
                                 </nav>
@@ -659,7 +659,7 @@
                 <div class="row">
                     <div class="col-lg-6 col-md-6">
                         <div class="deal-img wow fadeInLeft">
-                            <a href="#"><img src="../../../public/img/banner/banner-2.png" alt=""></a>
+                            <a href="#"><img src="../../../public/img/banners/banner-2.png" alt=""></a>
                         </div>
                     </div>
                     <div class="col-lg-6 col-md-6">
@@ -681,7 +681,7 @@
                 </div>
             </div>
         </div>
-		<div class="testimonial-area pt-90 pb-70 bg-img" style="background-image:url(../../../public/img/banner/banner-1.jpg);">
+		<div class="testimonial-area pt-90 pb-70 bg-img" style="background-image:url(../../../public/img/banners/banner-1.jpg);">
 		    <div class="container">
                 <div class="row">
                     <div class="col-lg-10 ml-auto mr-auto">
