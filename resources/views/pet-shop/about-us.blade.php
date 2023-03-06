@@ -112,7 +112,7 @@
                                                 </li>
                                                 <li>
                                                     <ul>
-                                                        <li><a href="shop-page.html"><img alt="" src="../../../public/img/banner/menu-img-4.jpg"></a></li>
+                                                        <li><a href="shop-page.html"><img alt="" src="../../../public/img/banners/menu-img-4.jpg"></a></li>
                                                     </ul>
                                                 </li>
                                             </ul>
@@ -400,7 +400,7 @@
                 </div>
             </div>
         </div>
-		<div class="testimonial-area pt-90 pb-70 bg-img" style="background-image:url(../../../public/img/banner/banner-1.jpg);">
+		<div class="testimonial-area pt-90 pb-70 bg-img" style="background-image:url(../../../public/img/banners/banner-1.jpg);">
 		    <div class="container">
                 <div class="row">
                     <div class="col-lg-10 ml-auto mr-auto">

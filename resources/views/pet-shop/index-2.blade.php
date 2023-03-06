@@ -112,7 +112,7 @@
                                                 </li>
                                                 <li>
                                                     <ul>
-                                                        <li><a href="shop-page.html"><img alt="" src="../../../public/img/banner/menu-img-4.jpg"></a></li>
+                                                        <li><a href="shop-page.html"><img alt="" src="../../../public/img/banners/menu-img-4.jpg"></a></li>
                                                     </ul>
                                                 </li>
                                             </ul>
@@ -675,7 +675,7 @@
                 </div>
             </div>
 		</div>
-        <div class="deal-area bg-img deal-style-white pt-95 pb-100 bg-img" style="background-image:url(../../../public/img/banner/banner-2.jpg);">
+        <div class="deal-area bg-img deal-style-white pt-95 pb-100 bg-img" style="background-image:url(../../../public/img/banners/banner-2.jpg);">
             <div class="container">
                 <div class="section-title section-title-white text-center mb-50">
                     <h4>Best Product</h4>
@@ -684,7 +684,7 @@
                 <div class="row">
                     <div class="col-lg-6 col-md-6">
                         <div class="deal-img wow fadeInLeft">
-                            <a href="#"><img src="../../../public/img/banner/banner-4.png" alt=""></a>
+                            <a href="#"><img src="../../../public/img/banners/banner-4.png" alt=""></a>
                         </div>
                     </div>
                     <div class="col-lg-6 col-md-6">
